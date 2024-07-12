@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/apuntes2.dir/main.c.o CMakeFiles/apuntes2.dir/ejercicio1.c.o -o apuntes2 

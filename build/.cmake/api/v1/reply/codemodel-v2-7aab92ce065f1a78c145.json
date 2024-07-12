@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "apuntes2",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "apuntes2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apuntes2-Debug-5d2e5b01a937090a414f.json",
+					"name" : "apuntes2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/ernest/Documents/VSCode/Curso_Sistemas_Operativos/Ejercicios/OS-Ejercicios/Apuntes2/OS-Apuntes2/build",
+		"source" : "/home/ernest/Documents/VSCode/Curso_Sistemas_Operativos/Ejercicios/OS-Ejercicios/Apuntes2/OS-Apuntes2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
