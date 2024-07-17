@@ -1,6 +1,8 @@
-CMakeFiles/apuntes2.dir/main.c.o: \
- /home/ernest/Documents/VSCode/Curso_Sistemas_Operativos/Ejercicios/OS-Ejercicios/Apuntes2/OS-Apuntes2/main.c \
- /usr/include/stdc-predef.h /usr/include/stdio.h \
+CMakeFiles/apuntes2.dir/ejercicio4.c.o: \
+ /home/ernest/Documents/VSCode/Curso_Sistemas_Operativos/Ejercicios/OS-Ejercicios/Apuntes2/OS-Apuntes2/ejercicio4.c \
+ /usr/include/stdc-predef.h \
+ /home/ernest/Documents/VSCode/Curso_Sistemas_Operativos/Ejercicios/OS-Ejercicios/Apuntes2/OS-Apuntes2/ejercicio4.h \
+ /usr/include/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
@@ -47,8 +49,4 @@ CMakeFiles/apuntes2.dir/main.c.o: \
  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h /usr/include/alloca.h \
- /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
- /home/ernest/Documents/VSCode/Curso_Sistemas_Operativos/Ejercicios/OS-Ejercicios/Apuntes2/OS-Apuntes2/ejercicio1.h \
- /home/ernest/Documents/VSCode/Curso_Sistemas_Operativos/Ejercicios/OS-Ejercicios/Apuntes2/OS-Apuntes2/ejercicio2.h \
- /home/ernest/Documents/VSCode/Curso_Sistemas_Operativos/Ejercicios/OS-Ejercicios/Apuntes2/OS-Apuntes2/ejercicio3.h \
- /home/ernest/Documents/VSCode/Curso_Sistemas_Operativos/Ejercicios/OS-Ejercicios/Apuntes2/OS-Apuntes2/ejercicio4.h
+ /usr/include/x86_64-linux-gnu/bits/stdlib-float.h

@@ -5,6 +5,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/apuntes2.dir/ejercicio2.c.o.d"
   "CMakeFiles/apuntes2.dir/ejercicio3.c.o"
   "CMakeFiles/apuntes2.dir/ejercicio3.c.o.d"
+  "CMakeFiles/apuntes2.dir/ejercicio4.c.o"
+  "CMakeFiles/apuntes2.dir/ejercicio4.c.o.d"
   "CMakeFiles/apuntes2.dir/main.c.o"
   "CMakeFiles/apuntes2.dir/main.c.o.d"
   "apuntes2"

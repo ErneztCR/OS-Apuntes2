@@ -3,8 +3,10 @@
 
 #include "ejercicio1.h"
 #include "ejercicio2.h"
+#include "ejercicio3.h"
+#include "ejercicio4.h"
 
 int main() {
-    ejercicio1();
+    ejercicio4();
     return 0;
 }
