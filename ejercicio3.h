@@ -1,6 +1,6 @@
 #ifndef EJERCICIO3_H
 #define EJERCICIO3_H
 
-int ejercicio3();
+void ejercicio3();
 
 #endif
