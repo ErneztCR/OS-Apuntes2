@@ -1,3 +1,6 @@
+// Leyendo archivos
+// Escriba un programa que le un archivo de texto y lo imprima a la terminal.
+
 #include "ejercicio2.h"
 
 #include <stdio.h>

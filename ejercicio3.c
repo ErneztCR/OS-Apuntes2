@@ -1,3 +1,6 @@
+// If-Else
+// Escriba un programa que reciba un número entero e imprima si espositivo, negativo o cero.
+
 #include "ejercicio3.h"
 
 #include <stdio.h>

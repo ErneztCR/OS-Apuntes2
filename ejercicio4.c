@@ -1,3 +1,7 @@
+// For loop
+// Escriba un programa que imprima los primeros 10 números naturales.
+// El programa los tiene que imprimir en orden ascendente y descendente.
+
 #include "ejercicio4.h"
 
 #include <stdio.h>

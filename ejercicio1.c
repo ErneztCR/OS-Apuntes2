@@ -1,3 +1,6 @@
+// Input y Output básico
+// Escriba un programa que reciba un número entero del usuario y lo imprima de nuevo a la terminal.
+
 #include "ejercicio1.h"
 
 #include <stdio.h>
