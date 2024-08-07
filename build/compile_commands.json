@@ -23,5 +23,15 @@
   "directory": "/home/ernest/Documents/VSCode/Curso_Sistemas_Operativos/Ejercicios/OS-Ejercicios/Apuntes2/OS-Apuntes2/build",
   "command": "/usr/bin/cc   -g -std=gnu11 -o CMakeFiles/apuntes2.dir/ejercicio4.c.o -c /home/ernest/Documents/VSCode/Curso_Sistemas_Operativos/Ejercicios/OS-Ejercicios/Apuntes2/OS-Apuntes2/ejercicio4.c",
   "file": "/home/ernest/Documents/VSCode/Curso_Sistemas_Operativos/Ejercicios/OS-Ejercicios/Apuntes2/OS-Apuntes2/ejercicio4.c"
+},
+{
+  "directory": "/home/ernest/Documents/VSCode/Curso_Sistemas_Operativos/Ejercicios/OS-Ejercicios/Apuntes2/OS-Apuntes2/build",
+  "command": "/usr/bin/cc   -g -std=gnu11 -o CMakeFiles/apuntes2.dir/ejercicio5.c.o -c /home/ernest/Documents/VSCode/Curso_Sistemas_Operativos/Ejercicios/OS-Ejercicios/Apuntes2/OS-Apuntes2/ejercicio5.c",
+  "file": "/home/ernest/Documents/VSCode/Curso_Sistemas_Operativos/Ejercicios/OS-Ejercicios/Apuntes2/OS-Apuntes2/ejercicio5.c"
+},
+{
+  "directory": "/home/ernest/Documents/VSCode/Curso_Sistemas_Operativos/Ejercicios/OS-Ejercicios/Apuntes2/OS-Apuntes2/build",
+  "command": "/usr/bin/cc   -g -std=gnu11 -o CMakeFiles/apuntes2.dir/ejercicio6.c.o -c /home/ernest/Documents/VSCode/Curso_Sistemas_Operativos/Ejercicios/OS-Ejercicios/Apuntes2/OS-Apuntes2/ejercicio6.c",
+  "file": "/home/ernest/Documents/VSCode/Curso_Sistemas_Operativos/Ejercicios/OS-Ejercicios/Apuntes2/OS-Apuntes2/ejercicio6.c"
 }
 ]

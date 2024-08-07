@@ -225,6 +225,54 @@ ejercicio4.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/apuntes2.dir/build.make CMakeFiles/apuntes2.dir/ejercicio4.c.s
 .PHONY : ejercicio4.c.s
 
+ejercicio5.o: ejercicio5.c.o
+.PHONY : ejercicio5.o
+
+# target to build an object file
+ejercicio5.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/apuntes2.dir/build.make CMakeFiles/apuntes2.dir/ejercicio5.c.o
+.PHONY : ejercicio5.c.o
+
+ejercicio5.i: ejercicio5.c.i
+.PHONY : ejercicio5.i
+
+# target to preprocess a source file
+ejercicio5.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/apuntes2.dir/build.make CMakeFiles/apuntes2.dir/ejercicio5.c.i
+.PHONY : ejercicio5.c.i
+
+ejercicio5.s: ejercicio5.c.s
+.PHONY : ejercicio5.s
+
+# target to generate assembly for a file
+ejercicio5.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/apuntes2.dir/build.make CMakeFiles/apuntes2.dir/ejercicio5.c.s
+.PHONY : ejercicio5.c.s
+
+ejercicio6.o: ejercicio6.c.o
+.PHONY : ejercicio6.o
+
+# target to build an object file
+ejercicio6.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/apuntes2.dir/build.make CMakeFiles/apuntes2.dir/ejercicio6.c.o
+.PHONY : ejercicio6.c.o
+
+ejercicio6.i: ejercicio6.c.i
+.PHONY : ejercicio6.i
+
+# target to preprocess a source file
+ejercicio6.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/apuntes2.dir/build.make CMakeFiles/apuntes2.dir/ejercicio6.c.i
+.PHONY : ejercicio6.c.i
+
+ejercicio6.s: ejercicio6.c.s
+.PHONY : ejercicio6.s
+
+# target to generate assembly for a file
+ejercicio6.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/apuntes2.dir/build.make CMakeFiles/apuntes2.dir/ejercicio6.c.s
+.PHONY : ejercicio6.c.s
+
 main.o: main.c.o
 .PHONY : main.o
 
@@ -270,6 +318,12 @@ help:
 	@echo "... ejercicio4.o"
 	@echo "... ejercicio4.i"
 	@echo "... ejercicio4.s"
+	@echo "... ejercicio5.o"
+	@echo "... ejercicio5.i"
+	@echo "... ejercicio5.s"
+	@echo "... ejercicio6.o"
+	@echo "... ejercicio6.i"
+	@echo "... ejercicio6.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

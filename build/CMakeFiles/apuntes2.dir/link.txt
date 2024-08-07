@@ -1,1 +1,1 @@
-/usr/bin/cc -g CMakeFiles/apuntes2.dir/main.c.o CMakeFiles/apuntes2.dir/ejercicio1.c.o CMakeFiles/apuntes2.dir/ejercicio2.c.o CMakeFiles/apuntes2.dir/ejercicio3.c.o CMakeFiles/apuntes2.dir/ejercicio4.c.o -o apuntes2 
+/usr/bin/cc -g CMakeFiles/apuntes2.dir/main.c.o CMakeFiles/apuntes2.dir/ejercicio1.c.o CMakeFiles/apuntes2.dir/ejercicio2.c.o CMakeFiles/apuntes2.dir/ejercicio3.c.o CMakeFiles/apuntes2.dir/ejercicio4.c.o CMakeFiles/apuntes2.dir/ejercicio5.c.o CMakeFiles/apuntes2.dir/ejercicio6.c.o -o apuntes2 

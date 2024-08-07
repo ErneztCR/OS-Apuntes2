@@ -139,13 +139,43 @@ CMakeFiles/apuntes2.dir/ejercicio4.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/apuntes2.dir/ejercicio4.c.s"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ernest/Documents/VSCode/Curso_Sistemas_Operativos/Ejercicios/OS-Ejercicios/Apuntes2/OS-Apuntes2/ejercicio4.c -o CMakeFiles/apuntes2.dir/ejercicio4.c.s
 
+CMakeFiles/apuntes2.dir/ejercicio5.c.o: CMakeFiles/apuntes2.dir/flags.make
+CMakeFiles/apuntes2.dir/ejercicio5.c.o: ../ejercicio5.c
+CMakeFiles/apuntes2.dir/ejercicio5.c.o: CMakeFiles/apuntes2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ernest/Documents/VSCode/Curso_Sistemas_Operativos/Ejercicios/OS-Ejercicios/Apuntes2/OS-Apuntes2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/apuntes2.dir/ejercicio5.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/apuntes2.dir/ejercicio5.c.o -MF CMakeFiles/apuntes2.dir/ejercicio5.c.o.d -o CMakeFiles/apuntes2.dir/ejercicio5.c.o -c /home/ernest/Documents/VSCode/Curso_Sistemas_Operativos/Ejercicios/OS-Ejercicios/Apuntes2/OS-Apuntes2/ejercicio5.c
+
+CMakeFiles/apuntes2.dir/ejercicio5.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/apuntes2.dir/ejercicio5.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ernest/Documents/VSCode/Curso_Sistemas_Operativos/Ejercicios/OS-Ejercicios/Apuntes2/OS-Apuntes2/ejercicio5.c > CMakeFiles/apuntes2.dir/ejercicio5.c.i
+
+CMakeFiles/apuntes2.dir/ejercicio5.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/apuntes2.dir/ejercicio5.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ernest/Documents/VSCode/Curso_Sistemas_Operativos/Ejercicios/OS-Ejercicios/Apuntes2/OS-Apuntes2/ejercicio5.c -o CMakeFiles/apuntes2.dir/ejercicio5.c.s
+
+CMakeFiles/apuntes2.dir/ejercicio6.c.o: CMakeFiles/apuntes2.dir/flags.make
+CMakeFiles/apuntes2.dir/ejercicio6.c.o: ../ejercicio6.c
+CMakeFiles/apuntes2.dir/ejercicio6.c.o: CMakeFiles/apuntes2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ernest/Documents/VSCode/Curso_Sistemas_Operativos/Ejercicios/OS-Ejercicios/Apuntes2/OS-Apuntes2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/apuntes2.dir/ejercicio6.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/apuntes2.dir/ejercicio6.c.o -MF CMakeFiles/apuntes2.dir/ejercicio6.c.o.d -o CMakeFiles/apuntes2.dir/ejercicio6.c.o -c /home/ernest/Documents/VSCode/Curso_Sistemas_Operativos/Ejercicios/OS-Ejercicios/Apuntes2/OS-Apuntes2/ejercicio6.c
+
+CMakeFiles/apuntes2.dir/ejercicio6.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/apuntes2.dir/ejercicio6.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ernest/Documents/VSCode/Curso_Sistemas_Operativos/Ejercicios/OS-Ejercicios/Apuntes2/OS-Apuntes2/ejercicio6.c > CMakeFiles/apuntes2.dir/ejercicio6.c.i
+
+CMakeFiles/apuntes2.dir/ejercicio6.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/apuntes2.dir/ejercicio6.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ernest/Documents/VSCode/Curso_Sistemas_Operativos/Ejercicios/OS-Ejercicios/Apuntes2/OS-Apuntes2/ejercicio6.c -o CMakeFiles/apuntes2.dir/ejercicio6.c.s
+
 # Object files for target apuntes2
 apuntes2_OBJECTS = \
 "CMakeFiles/apuntes2.dir/main.c.o" \
 "CMakeFiles/apuntes2.dir/ejercicio1.c.o" \
 "CMakeFiles/apuntes2.dir/ejercicio2.c.o" \
 "CMakeFiles/apuntes2.dir/ejercicio3.c.o" \
-"CMakeFiles/apuntes2.dir/ejercicio4.c.o"
+"CMakeFiles/apuntes2.dir/ejercicio4.c.o" \
+"CMakeFiles/apuntes2.dir/ejercicio5.c.o" \
+"CMakeFiles/apuntes2.dir/ejercicio6.c.o"
 
 # External object files for target apuntes2
 apuntes2_EXTERNAL_OBJECTS =
@@ -155,9 +185,11 @@ apuntes2: CMakeFiles/apuntes2.dir/ejercicio1.c.o
 apuntes2: CMakeFiles/apuntes2.dir/ejercicio2.c.o
 apuntes2: CMakeFiles/apuntes2.dir/ejercicio3.c.o
 apuntes2: CMakeFiles/apuntes2.dir/ejercicio4.c.o
+apuntes2: CMakeFiles/apuntes2.dir/ejercicio5.c.o
+apuntes2: CMakeFiles/apuntes2.dir/ejercicio6.c.o
 apuntes2: CMakeFiles/apuntes2.dir/build.make
 apuntes2: CMakeFiles/apuntes2.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/ernest/Documents/VSCode/Curso_Sistemas_Operativos/Ejercicios/OS-Ejercicios/Apuntes2/OS-Apuntes2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking C executable apuntes2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/ernest/Documents/VSCode/Curso_Sistemas_Operativos/Ejercicios/OS-Ejercicios/Apuntes2/OS-Apuntes2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking C executable apuntes2"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/apuntes2.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

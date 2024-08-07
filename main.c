@@ -5,9 +5,10 @@
 #include "ejercicio2.h"
 #include "ejercicio3.h"
 #include "ejercicio4.h"
+#include "ejercicio5.h"
 #include "ejercicio6.h"
 
 int main() {
-    ejercicio4();
+    ejercicio5();
     return 0;
 }
