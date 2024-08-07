@@ -8,8 +8,9 @@
 #include "ejercicio5.h"
 #include "ejercicio6.h"
 #include "ejercicio7.h"
+#include "ejercicio8.h"
 
 int main() {
-    ejercicio7();
+    ejercicio8();
     return 0;
 }
