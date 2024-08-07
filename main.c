@@ -5,6 +5,7 @@
 #include "ejercicio2.h"
 #include "ejercicio3.h"
 #include "ejercicio4.h"
+#include "ejercicio6.h"
 
 int main() {
     ejercicio4();
